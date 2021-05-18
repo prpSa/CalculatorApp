@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Prasanna Calculator</string>
+    <string name="plus">ADDITION</string>
+    <string name="subtract">SUBTRACT</string>
+    <string name="multiplication">MULTIPLICATION</string>
+    <string name="division">DIVISION</string>
+    <string name="enter_second_number">Enter Second Number</string>
+    <string name="enter_first_number">Enter First Number</string>
+</resources>
